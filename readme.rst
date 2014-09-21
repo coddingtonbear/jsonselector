@@ -1,6 +1,3 @@
-jsonselector
-============
-
 .. image:: https://travis-ci.org/coddingtonbear/go-jsonselect.png?branch=master
    :target: https://travis-ci.org/coddingtonbear/go-jsonselect
 
