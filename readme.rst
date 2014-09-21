@@ -45,4 +45,4 @@ the `go-jsonselect <https://github.com/coddingtonbear/go-jsonselect>`_ library
 I cobbled together a few months ago,
 which was itself inspired by
 a `Python implementation of the JSONSelect query language <https://github.com/mwhooker/jsonselect>`_
-by `@mwhooker <https://github.com/mwhooker/jsonselect>`_.
+by `@mwhooker <https://github.com/mwhooker>`_.
