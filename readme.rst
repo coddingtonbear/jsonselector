@@ -1,7 +1,7 @@
-JSONSelector
+jsonselector
 ============
 
-Jsonelector allows you to find matching nodes in a JSON document using
+Jsonselector allows you to find matching nodes in a JSON document using
 a query language modeled off of CSS selectors -- 
 `JSONSelect <http://jsonselect.org/>`_.
 
