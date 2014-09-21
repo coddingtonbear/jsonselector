@@ -32,3 +32,17 @@ nodes in the JSON document ``some_json_document`` matching the selector ``.my_se
 
     cat some_json_document | jsonselector .my_selector
     jsonselector < some_json_document .my_selector
+
+
+Acknowledgements
+----------------
+
+The chains of inspiration are long;
+this project was inspired by `@EricChang <https://github.com/EricChiang>`_'s `pup <https://github.com/EricChiang/pup>`_
+-- a commandline HTML parser,
+and is really not much more than a thin wrapper around
+the `go-jsonselect <https://github.com/coddingtonbear/go-jsonselect>`_ library
+I cobbled together a few months ago,
+which was itself inspired by
+a `Python implementation of the JSONSelect query language <https://github.com/mwhooker/jsonselect>`_
+by `@mwhooker <https://github.com/mwhooker/jsonselect>`_.
