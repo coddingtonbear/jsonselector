@@ -1,6 +1,9 @@
 jsonselector
 ============
 
+.. image:: https://travis-ci.org/coddingtonbear/go-jsonselect.png?branch=master
+   :target: https://travis-ci.org/coddingtonbear/go-jsonselect
+
 Jsonselector allows you to find matching nodes in a JSON document using
 a query language modeled off of CSS selectors -- 
 `JSONSelect <http://jsonselect.org/>`_.
